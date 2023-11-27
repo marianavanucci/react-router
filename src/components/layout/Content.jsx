@@ -1,10 +1,10 @@
 import React from "react";
-import 'Content.css'
+import './Content.css'
 
 const Content = props => (
 
         <main className="Content">
-            Content
+            <h1>Content</h1>
         </main>
 )
 
